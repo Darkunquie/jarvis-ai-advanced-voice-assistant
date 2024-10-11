@@ -45,9 +45,6 @@ Use commands like:
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Instructions to Customize
 
 - Replace `yourusername` in the clone URL with your actual GitHub username.
